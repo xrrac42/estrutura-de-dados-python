@@ -1,0 +1,7 @@
+
+Input:
+Mensagem(Eis)Secreta
+(21f41(fc))))15((788f9083ca37bf7e1e(2a60f1e69abdd))))(()()()()()()
+Output:
+EisMensagemSecreta
+2a60f1e69abdd788f9083ca37bf7e1efc21f4115
